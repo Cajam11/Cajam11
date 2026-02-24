@@ -9,7 +9,11 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mysql,git,github,vscode,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,angular,nodejs,express,cs,html,css,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb,git,github,figma,vscode,ps,ai,postman" />
 </p>
 
 ---
@@ -19,22 +23,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cajam11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cajam11&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
-</p>
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cajam11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cajam11&theme=matrix&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -49,12 +37,31 @@
 
 ## ⚡ About Me
 
-- 🎓 Programming student  
-- 💻 Building full-stack apps  
-- 🛠 Node.js + MySQL backend  
-- 🎨 Graphic design background  
-- 🏋️ Discipline & gym mindset  
-- 🎵 Creative projects  
+```typescript
+const developer = {
+  name: "CAJAM11",
+  role: "Full Stack Developer",
+  focus: ["Web Development", "UI/UX Design", "Backend Architecture"],
+  
+  currentlyWorking: {
+    frontend: ["React", "Next.js", "Angular", "TypeScript"],
+    backend: ["Node.js", "Express.js", "C#", "Python"],
+    database: ["MySQL", "Supabase", "MongoDB"],
+    design: ["Figma", "Photoshop", "Illustrator"]
+  },
+  
+  mindset: ["Discipline", "Consistency", "Growth"],
+  lifestyle: "Code 💻 | Design 🎨 | Gym 🏋️ | Create 🎵",
+  
+  currentlyLearning: "Building scalable web applications",
+  openToCollaborate: true,
+  motto: "Turn ideas into reality through code"
+};
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A;Building+The+Future+%E2%9A%A1" />
+</p>  
 
 ---
 
