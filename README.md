@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ CAJAM11
+# ⚡ CAJAM11 ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Based+in+Slovakia;Full+Stack+Developer;Building+The+Future" />
 
