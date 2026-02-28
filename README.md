@@ -34,7 +34,6 @@ I build high-performance web applications with beautiful UX, bringing discipline
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cajam11&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cajam11&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
 </p>
 
