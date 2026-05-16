@@ -59,7 +59,7 @@ I build high-performance web applications with beautiful UX, bringing discipline
 
 **Frontend:** `React` `Next.js` `Angular` `TypeScript` `Tailwind CSS`  
 **Backend:** `Node.js` `Express.js` `C#` `Python`  
-**Database:** `MySQL` `Supabase` `MongoDB`  
+**Database:** `MySQL` `Supabase` `MongoDB` `PostgreSQL`  
 **Design & Tools:** `Figma` `Photoshop` `Illustrator` `Git` `VS Code`
 
 <br>
