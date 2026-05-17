@@ -60,7 +60,7 @@ I build high-performance web and mobile applications with beautiful UX, bringing
 **Frontend:** `React` `Next.js` `Angular` `TypeScript` `Tailwind CSS`  
 **Mobile:** `React Native` `Expo`  
 **Backend:** `Node.js` `Express.js` `C#` `Python`  
-**Database:** `MySQL` `Supabase` `MongoDB`  
+**Database:** `MySQL` `Supabase` `MongoDB` `PostgreSQL`  
 **Design & Tools:** `Figma` `Photoshop` `Illustrator` `Git` `VS Code`
 
 <br>
