@@ -2,12 +2,12 @@
 
 # ⚡ CAJAM11 ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Based+in+Slovakia;Full+Stack+Developer;Building+The+Future" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Based+in+Slovakia;Full+Stack+Developer;Mobile+Developer;Building+The+Future" />
 
-### Full Stack Developer & Creative Designer
+### Full Stack & Mobile Developer | Creative Designer
 
-Specializing in **React**, **Next.js**, **Node.js**, and **TypeScript**.  
-I build high-performance web applications with beautiful UX, bringing discipline from the gym to code.
+Specializing in **React**, **Next.js**, **React Native**, **Node.js**, and **TypeScript**.  
+I build high-performance web and mobile applications with beautiful UX, bringing discipline from the gym to code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-pau%C4%8Do-0b8143304/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauco.filip1@gmail.com)
@@ -51,13 +51,14 @@ I build high-performance web applications with beautiful UX, bringing discipline
 
 <div align="center">
 
-### 💻 Full Stack Developer | 🎨 Creative Designer | 💪 Discipline Driven
+### 💻 Full Stack Developer | 📱 Mobile Developer | 🎨 Creative Designer | 💪 Discipline Driven
 
 <br>
 
 #### 🔧 Technologies & Tools
 
 **Frontend:** `React` `Next.js` `Angular` `TypeScript` `Tailwind CSS`  
+**Mobile:** `React Native` `Expo`  
 **Backend:** `Node.js` `Express.js` `C#` `Python`  
 **Database:** `MySQL` `Supabase` `MongoDB`  
 **Design & Tools:** `Figma` `Photoshop` `Illustrator` `Git` `VS Code`
@@ -66,7 +67,8 @@ I build high-performance web applications with beautiful UX, bringing discipline
 
 ### 🎯 What Drives Me
 
-🚀 Building scalable web applications that make an impact  
+🚀 Building scalable web and mobile applications that make an impact  
+📱 Crafting smooth cross-platform mobile experiences with React Native  
 💡 Turning creative ideas into functional solutions  
 🎨 Designing beautiful and intuitive user experiences  
 💪 Bringing gym discipline to coding excellence  
@@ -75,7 +77,7 @@ I build high-performance web applications with beautiful UX, bringing discipline
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;Always+learning+new+tech;Building+the+future;Let's+collaborate!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;Web+%26+Mobile+Developer;Always+learning+new+tech;Building+the+future;Let's+collaborate!" />
 
 </div>  
 
